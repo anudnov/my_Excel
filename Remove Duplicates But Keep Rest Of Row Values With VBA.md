@@ -35,3 +35,9 @@ Sub RemoveDuplicates()
 End Sub
 
 3. Press F5 key to run the code, a dialog pops out to remind you to select a range to remove duplicate values from. See screenshot:
+4. Click OK, now the duplicate values have been removed from selection and leave blank cells.
+
+ Remove Duplicates But Keep Rest Of Row Values With Kutools For Excel
+
+From:
+https://www.extendoffice.com/documents/excel/4043-excel-remove-duplicate-value-but-keep-rest-of-the-row-values.html
